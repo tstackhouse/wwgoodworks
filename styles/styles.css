@@ -89,6 +89,7 @@ header {
   font-size: 1.5rem;
   display: flex;
   flex-align: space-between;
+  flex-direction: row;
 }
 
 header a {
