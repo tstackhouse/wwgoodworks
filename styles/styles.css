@@ -92,15 +92,20 @@ header {
 main {
   display: flex;
   background: #B1D2E6;
+  padding: 0 2rem;
+}
+
+main > * {
+  
 }
 
 article {
-  flex: 3;
-  padding: 2rem;
+  flex: 5;
+  margin: 2rem 0;
 }
 
 aside {
-  flex: 2;
+  flex: 3;
   min-height: 450px;
 }
 
