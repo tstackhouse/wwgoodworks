@@ -61,6 +61,24 @@ input, select {
 }
 
 /* main styles */
+
+/*
+font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+#317CA7
+#586973
+#50D9C1
+#DE9589
+#A62D31
+*/
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
 header {
   background: rgba(100,245,100,1);
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  padding: 2rem;
 }
