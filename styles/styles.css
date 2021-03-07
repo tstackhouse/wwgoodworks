@@ -87,6 +87,13 @@ footer {
 
 header {
   font-size: 1.5rem;
+  display: flex;
+  flex-align: space-between;
+}
+
+header a {
+  color: #fff;
+  font-size: 3rem;
 }
 
 main {
