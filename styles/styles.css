@@ -74,7 +74,7 @@ font-family: 'Raleway', sans-serif;
 
 body {
   font-family: 'Poppins', sans-serif;
-  background: #B1D2E6;
+  background : #317CA7;
 }
 
 header,
@@ -84,7 +84,6 @@ footer {
   font-weight: 500;
   padding: 2rem;
   color : #fff;
-  background : #317CA7;
 }
 
 header {
@@ -97,11 +96,12 @@ main {
 }
 
 article {
-  flex: 2;
+  flex: 3;
+  padding: 2rem;
 }
 
 aside {
-  flex: 1;
+  flex: 2;
   min-height: 450px;
 }
 
