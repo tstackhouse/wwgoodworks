@@ -1,4 +1,4 @@
-# css reset
+/* css reset */
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 abbr, address, cite, code,
@@ -60,7 +60,7 @@ input, select {
   vertical-align :middle;
 }
 
-# main styles
+/* main styles */
 header {
   background: rgba(100,245,100,1);
 }
