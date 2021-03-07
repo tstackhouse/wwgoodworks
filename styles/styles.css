@@ -77,16 +77,24 @@ body {
   background: #B1D2E6;
 }
 
-header {
+header,
+footer {
   background: rgba(100,245,100,1);
   font-family: 'Raleway', sans-serif;
   font-weight: 500;
-  font-size: 1.5rem;
   padding: 2rem;
   color : #fff;
   background : #317CA7;
 }
 
+header {
+  font-size: 1.5rem;
+}
+
 aside {
   min-height: 450px;
+}
+
+footer {
+  
 }
